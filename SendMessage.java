@@ -10,7 +10,7 @@ import com.android.uiautomator.core.UiSelector;
 
 /**
  * @author Oleksandr Pylkevych <br>
- * @author o.pylkevych@samsung.com <br>
+ * @author o.pylkevych@gmail.com <br>
  * <br>
  *         <b>Steps:</b><br>
  *         1. Launch Messaging app<br>
